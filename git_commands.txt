@@ -1,0 +1,14 @@
+git clone [url]
+git status
+git add [file]
+git commit -m [message]
+git reset
+git push [alias] [branch]
+git pull
+
+linux
+ls
+cd
+mkdir
+rmdir
+rm
